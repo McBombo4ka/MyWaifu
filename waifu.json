@@ -1,0 +1,23 @@
+{
+    "hutao":
+    {
+        "name": "Hu Tao",
+        "attack": 5,
+        "description": "Hu Tao - she is very kind, but can deal so much damage if it's needed",
+        "imageURL": "https://raw.githubusercontent.com/McBombo4ka/MyWaifu/23e833abd9385c8deed71c18d157f9b731991487/images/hutao.png"
+    },
+    "raiden":
+    {
+        "name": "Raiden Shogun",
+        "attack": 10,
+        "description": "Raiden Shogun - bzzzzz",
+        "imageURL": "https://raw.githubusercontent.com/McBombo4ka/MyWaifu/refs/heads/main/images/raiden.jpg"
+    },
+    "zhongli":
+    {
+        "name": "Zhongli",
+        "attack": 12,
+        "description": "Zhongli - muscle be like: BOOM!",
+        "imageURL": "https://raw.githubusercontent.com/McBombo4ka/MyWaifu/refs/heads/main/images/zhongli.jpg"
+    }
+  }
